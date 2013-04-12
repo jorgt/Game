@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/engine/state/StateAbility.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/Main.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/Constants.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/objects/Map.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/entities/Player.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/objects/tilecollection/CoreTile.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/objects/tilecollection/DrawMemTile.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/objects/tilecollection/TileBlank.java</file>
+        <file>file:/M:/Dropbox/dev/NetBeansProjects/Game/src/com/jorg/game/objects/tilecollection/TileFloor.java</file>
+    </open-files>
+</project-private>

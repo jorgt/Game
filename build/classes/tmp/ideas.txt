@@ -1,0 +1,29 @@
+have done idea list:
+
+engine with fixed updates, frames
+input handling
+states
+2d tile engine
+day / night cycle
+field generator
+dungeon generator
+
+to do idea list, randomly:
+
+map: save pixel grid, restore at start of drawing, only re-render tiles that need re-rendering like water. 
+improve input handling
+improve map generators
+town map generator
+integrate all map generators to make worlds
+semi persistence: saving, loading worlds
+player levels
+weather
+improve tile diversity
+create game objects / entities
+add object interaction
+add inventory
+magic system
+quest system
+
+shops
+monster AI
